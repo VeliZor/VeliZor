@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<h1>Hello there</h1>
+<br><br><br>
+<img src="./images/Kirito-fb6cd.gif" width="auto"/>
+<br><br><br>
+<h3>Full Stack Developer Trainee</h3>
+<br>
+<label for="">🌱 I’m currently learning Frontend & Backend Web Development</label>
 <!--
 **VeliZor/VeliZor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
