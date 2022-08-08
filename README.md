@@ -1,7 +1,7 @@
 <h1>Hello there</h1>
-<br><br><br>
+<br><br>
 <img src="Kirito-SAO.gif"/>
-<br><br><br>
+<br><br>
 <h3>Full Stack Developer Trainee</h3>
 <br>
 <label for="">🌱 I’m currently learning Frontend & Backend Web Development</label>
