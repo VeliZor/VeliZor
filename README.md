@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VeliZor&theme=dark&show_icons=true&locale=en" alt="VeliZor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VeliZor&" alt="VeliZor" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VeliZor&" alt="VeliZor" /></p>
 
 <!--
 **VeliZor/VeliZor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
