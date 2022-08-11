@@ -1,6 +1,6 @@
 <h1>Hello there !</h1>
 <br>
-<img align="center" src="Kirito-SAO.gif"/>
+<img align="center", src="Kirito-SAO.gif"/>
 <br>
 <h3>Full Stack Developer Trainee</h3>
 
