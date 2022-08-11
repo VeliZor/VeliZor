@@ -18,8 +18,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VeliZor&label=Profile%20views&color=0e75b6&style=flat" alt="VeliZor" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VeliZor" alt="VeliZor" /></a> </p>
-  <p><a href="https://wakatime.com/@e14af7db-08ee-4a32-836a-4a2c9e02fae5"><img src="https://wakatime.com/badge/user/e14af7db-08ee-4a32-836a-4a2c9e02fae5.svg" alt="Total time coded since Jul 28 2022" /></a>
-</p>
+ 
 
 <!--
 **VeliZor/VeliZor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
