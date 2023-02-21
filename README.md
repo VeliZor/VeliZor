@@ -2,7 +2,7 @@
 <br>
 <p align="center"><img src="Kirito-SAO.gif"/></p>
 <br>
-<h3>Full Stack Developer Trainee</h3>
+<h3>Full Stack Developer</h3>
 
 <label for="">🌱 I’m currently learning Frontend & Backend Web Development</label>
 
